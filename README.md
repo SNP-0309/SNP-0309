@@ -51,7 +51,8 @@
 🚧 Coming Soon...
 
 - 🔹 Project 1 - AI Syntom analyzer  
-- 🔹 Project 2 - Description  
+- 🔹 Project 2 -Expense tracker
+-  
 
 ---
 
