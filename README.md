@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Srujan%20Poojari&fontSize=65&fontAlignY=40&animation=fadeIn&desc=AI/ML%20Enthusiast%20|%20MERN%20Developer%20|%20Computer%20Vision&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast;MERN+Stack+Developer;Computer+Vision+Explorer;Building+Real-World+Solutions;Future+Software+Engineer+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;MERN+Stack+Developer;Computer+Vision+Explorer">
 
 <br><br>
 
@@ -130,7 +130,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srujan0309-code&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Srujan0309-code&theme=radical&no-frame=true&margin-w=15"/>
 
 </div>
 
