@@ -1,78 +1,39 @@
-# 👋 Hi, I'm Srujan! AI/ML ENTHUSIAST
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Srujan;AI%2FML+Enthusiast;MERN+Stack+Developer;Computer+Vision+Explorer;Building+Future+Ready+Solutions+🚀" />
+</h1>
 
-<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Projects;Future+Tech+Explorer+🚀" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srujan0309-code&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/Srujan0309-code?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Srujan0309-code?style=for-the-badge">
 </p>
 
 ---
 
-## 🌟 About Me
-- 💻 Passionate **MERN Stack Developer**
-- 🤖 Exploring **AI/ML + Real-world problem solving**
-- 🎓 Engineering Student at *St. John College of Engineering and Management*
-- 📚 Basic knowledge of **DSA**
-- ⚡ Love building **scalable & impactful projects**
+# ⚡ About Me
 
----
+<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-## 🛠️ Tech Stack
-<p>
-  <img src="[https://logos-download.com/brands/google-antigravity](https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc-768x708.png)">
-</p>
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp" />
-</p>
+```yaml
+Name: Srujan Poojari
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
+Role:
+  - AI/ML Enthusiast
+  - MERN Stack Developer
 
-### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+Currently Working On:
+  - AI Symptom Analyzer
+  - ATS Resume Generator
+  - Computer Vision Projects
 
-- 🚀 Antigravity
+Learning:
+  - Generative AI
+  - LLM Integrations
+  - System Design
 
----
-
-## 🤖 AI / ML Interest
-- Machine Learning Basics
-- AI-powered Web Apps
-- Automation Tools
-- Future goal: Build **real-world AI solutions**
-
----
-
-## 📌 Projects
-🚧 Coming Soon...
-
-- 🔹 Project 1 - AI Syntom analyzer  
-- 🔹 Project 2 -Expense tracker
--  
-
----
-
-## 🧠 Badges
-
-<p>
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Everyday-yellow?style=for-the-badge" />
-</p>
-
----
-
-## 🌐 Connect With Me
-- 📧 Email: srujanpoojari2@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/srujan-poojari-705779327/
-- 🌍 Portfolio: https://my-portfolio-o5sn.vercel.app/
-
----
-
-## ⚡ Fun Fact
-I don’t just code… I build **future-ready solutions** 🚀
+Goal:
+  Build AI solutions that solve real-world problems
