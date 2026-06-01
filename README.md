@@ -1,22 +1,22 @@
 <div align="center">
 
-# 🚀 Srujan Poojari
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Srujan%20Poojari&fontSize=65&fontAlignY=40&animation=fadeIn&desc=AI/ML%20Enthusiast%20|%20MERN%20Developer%20|%20Computer%20Vision&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast;MERN+Stack+Developer;Computer+Vision+Explorer;Building+Real-World+Solutions;Future+Software+Engineer+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast;MERN+Stack+Developer;Computer+Vision+Explorer;Building+Real-World+Solutions;Future+Software+Engineer+🚀"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Srujan%20Poojari&fontSize=60&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20MERN%20Developer&descAlignY=60"/>
+<br><br>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Srujan0309-code&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Srujan0309-code&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
+
 <img src="https://img.shields.io/github/followers/Srujan0309-code?style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/stars/Srujan0309-code?style=for-the-badge"/>
-</p>
 
 </div>
 
 ---
 
-# ⚡ Developer Profile
+# 💫 About Me
 
 ```yaml
 Name: Srujan Poojari
@@ -28,10 +28,10 @@ Role:
 Education:
   - St. John College of Engineering & Management
 
-Focus:
+Interests:
   - Artificial Intelligence
-  - Full Stack Development
   - Computer Vision
+  - Full Stack Development
   - Real World Problem Solving
 
 Currently Learning:
@@ -55,96 +55,46 @@ Currently Learning:
 
 # 🤖 Featured Projects
 
-<table>
-<tr>
+### 🔥 Fire & Non-Fire Stove Detection
 
-<td width="50%">
-
-## 🔥 Fire & Non-Fire Stove Detection
-
-### Tech Stack
-
-* Python
 * YOLO
 * OpenCV
-* Computer Vision
+* Python
+* Real-Time Fire Detection
+* Computer Vision Monitoring
 
-### Features
+---
 
-* Real-Time Detection
-* Fire Monitoring
-* Object Detection
-* AI-Based Analysis
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI Symptom Analyzer
-
-### Tech Stack
+### 🤖 AI Symptom Analyzer
 
 * MERN Stack
 * AI APIs
-* JavaScript
-
-### Features
-
 * Symptom Analysis
-* AI Suggestions
-* User-Friendly Interface
-* Real-Time Responses
+* Smart Health Assistance
 
-</td>
+---
 
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📄 ATS Resume Generator
-
-### Tech Stack
+### 📄 ATS Resume Generator
 
 * MERN Stack
 * Gemini API
 * Groq API
-
-### Features
-
-* ATS Friendly Resumes
-* AI Resume Optimization
+* ATS Optimization
 * Resume Scoring
-* Professional Templates
 
-</td>
+---
 
-<td width="50%">
-
-## 🎮 Car Racing Game
-
-### Tech Stack
+### 🎮 Car Racing Game
 
 * JavaScript
 * HTML
 * CSS
-
-### Features
-
 * Dynamic Gameplay
 * Score Tracking
-* Collision Detection
-* Responsive Controls
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -160,13 +110,13 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Srujan0309-code&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Srujan0309-code&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -176,11 +126,11 @@ Currently Learning:
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srujan0309-code&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Srujan0309-code&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -196,16 +146,14 @@ Currently Learning:
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Goals
 
-```text
-[✓] Build Production-Level AI Applications
-[✓] Master Advanced MERN Stack
-[✓] Create Real-World Computer Vision Solutions
-[✓] Contribute to Open Source
-[✓] Learn System Design
-[✓] Secure Software Engineering Opportunities
-```
+* 🚀 Build Production-Level AI Applications
+* 🤖 Master Computer Vision & LLMs
+* 🌐 Develop Scalable MERN Applications
+* 📚 Improve DSA & System Design
+* 🌟 Contribute to Open Source
+* 💼 Secure a Software Engineering Role
 
 ---
 
@@ -245,9 +193,8 @@ Currently Learning:
 
 <div align="center">
 
-### 🚀 Building Intelligent Solutions One Project At A Time
+### ⚡ Building Intelligent Solutions One Project At A Time
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
-
