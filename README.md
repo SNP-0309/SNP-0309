@@ -1,53 +1,52 @@
+# Hi there 👋 I'm Srujan Poojari
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Srujan%20Poojari&fontSize=65&fontAlignY=40&animation=fadeIn&desc=AI/ML%20Enthusiast%20|%20MERN%20Developer%20|%20Computer%20Vision&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Srujan%20Poojari&fontSize=60&fontAlignY=40&animation=fadeIn&desc=AI/ML%20Enthusiast%20•%20MERN%20Developer%20•%20Computer%20Vision%20Explorer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;MERN+Stack+Developer;Computer+Vision+Explorer">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Computer+Vision+Developer;MERN+Stack+Engineer;Generative+AI+Explorer;Full+Stack+Problem+Solver"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Srujan0309-code&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/Srujan0309-code?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Srujan0309-code?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/stars/Srujan0309-code?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Srujan0309-code?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-```yaml
-Name: Srujan Poojari
+💡 Passionate AI/ML Enthusiast and MERN Stack Developer
 
-Role:
-  - AI/ML Enthusiast
-  - MERN Stack Developer
+🎓 Student at St. John College of Engineering & Management
 
-Education:
-  - St. John College of Engineering & Management
+🤖 Interested in Artificial Intelligence, Computer Vision, Generative AI, and Full Stack Development
 
-Interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Full Stack Development
-  - Real World Problem Solving
+🌱 Currently Learning:
 
-Currently Learning:
-  - Generative AI
-  - LLM Integrations
-  - System Design
-  - Advanced MERN Development
-```
+* Advanced MERN Stack
+* LLM Integrations
+* System Design
+* Generative AI
+* Scalable Backend Development
+
+🎯 Career Goal:
+
+* Build impactful AI-powered products
+* Solve real-world problems using technology
+* Secure a Software Engineering / AI Engineering role
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,python,c,cpp,mongodb,express,react,nodejs,docker,git,github,postman,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,python,c,cpp,mysql,mongodb,express,react,nodejs,docker,git,github,postman,vscode&perline=6"/>
 
 </div>
 
@@ -55,42 +54,49 @@ Currently Learning:
 
 # 🤖 Featured Projects
 
-### 🔥 Fire & Non-Fire Stove Detection
+## 🔥 Fire & Non-Fire Stove Detection
 
-* YOLO
-* OpenCV
-* Python
-* Real-Time Fire Detection
-* Computer Vision Monitoring
+Real-time computer vision system built using YOLO and OpenCV to detect burning and non-burning stoves for safety monitoring.
+
+**Tech:** YOLO • OpenCV • Python • Computer Vision
 
 ---
 
-### 🤖 AI Symptom Analyzer
+## 🤖 AI Symptom Analyzer
 
-* MERN Stack
-* AI APIs
-* Symptom Analysis
-* Smart Health Assistance
+AI-powered health assistant capable of analyzing symptoms and providing intelligent insights using modern AI APIs.
 
----
-
-### 📄 ATS Resume Generator
-
-* MERN Stack
-* Gemini API
-* Groq API
-* ATS Optimization
-* Resume Scoring
+**Tech:** MERN Stack • AI APIs • MongoDB • Node.js
 
 ---
 
-### 🎮 Car Racing Game
+## 📄 ATS Resume Generator
 
-* JavaScript
-* HTML
-* CSS
-* Dynamic Gameplay
-* Score Tracking
+Smart resume builder that generates ATS-friendly resumes, scores resumes, and optimizes content using AI.
+
+**Tech:** MERN Stack • Gemini API • Groq API • Tailwind CSS
+
+---
+
+## 🎮 Car Racing Game
+
+Interactive browser-based racing game with obstacle avoidance, score tracking, and dynamic gameplay.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+# 🏆 Achievements
+
+✅ Developed AI-powered real-world applications
+
+✅ Built and deployed Full Stack MERN projects
+
+✅ Worked with Computer Vision and Object Detection Models
+
+✅ Experience with AI APIs and LLM Integration
+
+✅ Passionate about Open Source and Continuous Learning
 
 ---
 
@@ -126,34 +132,43 @@ Currently Learning:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srujan0309-code&theme=radical&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Srujan0309-code&theme=algolia&row=1&column=7&no-frame=true"/>
 
 </div>
 
 ---
 
-# 📋 Profile Summary
+# 💻 Coding Profiles
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srujan0309-code&theme=tokyonight"/>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🎯 Current Goals
+# 🐍 Contribution Snake
 
-* 🚀 Build Production-Level AI Applications
-* 🤖 Master Computer Vision & LLMs
-* 🌐 Develop Scalable MERN Applications
-* 📚 Improve DSA & System Design
-* 🌟 Contribute to Open Source
-* 💼 Secure a Software Engineering Role
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Srujan0309-code/Srujan0309-code/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
@@ -176,16 +191,6 @@ Currently Learning:
 <a href="https://github.com/Srujan0309-code">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Srujan0309-code/Srujan0309-code/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
