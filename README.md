@@ -54,7 +54,7 @@ Career Goal:
 # 🧠 Core Skills
 
 ```text
-Frontend      : HTML, CSS, JavaScript, React, Tailwind CSS
+Frontend      : HTML, CSS, Scss, JavaScript, React, Tailwind CSS
 Backend       : Node.js, Express.js
 Database      : MongoDB, MySQL, SQL
 Programming   : Java, Python, C, C++
