@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Srujan Poojari
+ Hi there 👋 I'm Srujan Poojari
 
 <div align="center">
 
