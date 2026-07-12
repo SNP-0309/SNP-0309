@@ -52,11 +52,12 @@ Passionate about building AI-powered applications, full-stack web platforms, and
 
 ## Projects
 
-* 🚧 Ecolife *(Working)*
+* 🚧 Ecolife 
 * 🤖 AI Symptom Analyzer
 * 📄 ATS Resume Generator
 * 💰 Expense Tracker
 * 🛒 Shopwise AI
+* Ai career guider
 
 ## Current Focus
 
