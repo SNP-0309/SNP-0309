@@ -57,7 +57,7 @@ Passionate about building AI-powered applications, full-stack web platforms, and
 * 📄 ATS Resume Generator
 * 💰 Expense Tracker
 * 🛒 Shopwise AI
-* Ai career guider
+* AI career guider
 
 ## Current Focus
 
