@@ -52,7 +52,7 @@ Passionate about building AI-powered applications, full-stack web platforms, and
 
 ## Projects
 
-* 🚧 Ecolife 
+* Ecolife 
 * 🤖 AI Symptom Analyzer
 * 📄 ATS Resume Generator
 * 💰 Expense Tracker
