@@ -10,6 +10,6 @@ I have worked on projects such as Ecolife, AI Symptom Analyzer, ATS Resume Gener
 
 Currently, I am focused on advancing my expertise in Artificial Intelligence Engineering, Generative AI, AI Agents, Computer Vision, the MERN Stack, React Native, Kubernetes, Docker, System Design, and Data Structures & Algorithms. I am committed to continuous learning and building impactful solutions that create meaningful value for users and organizations.
 
-> **"Building intelligent systems that solve real-world problems through AI and software engineering."**
+> **"Building intelligent systems that solve real-world problems through AI and software engineering."*
 
 
