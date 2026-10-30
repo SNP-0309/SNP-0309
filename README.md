@@ -1,5 +1,5 @@
 # Srujan Poojari
-
+ 
 ### Aspiring AI Engineer | Full-Stack Developer | React Native Developer
 
 I am a third-year Computer Engineering student passionate about building intelligent, scalable, and user-focused software. My experience spans full-stack web development, mobile application development, AI API integration, and computer vision. I enjoy transforming ideas into functional applications by combining software engineering with practical AI capabilities.
